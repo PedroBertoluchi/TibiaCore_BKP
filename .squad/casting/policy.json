@@ -1,0 +1,6 @@
+{
+  "policy_version": "1.0",
+  "universe": "The Witcher",
+  "max_agents": 12,
+  "allow_overflow": true
+}

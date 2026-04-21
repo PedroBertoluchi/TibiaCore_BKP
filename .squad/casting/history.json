@@ -1,0 +1,11 @@
+{
+  "assignments": [
+    {
+      "assignment_id": "tibiacore-2026-04-16",
+      "universe": "The Witcher",
+      "project": "TibiaCore",
+      "created_at": "2026-04-16",
+      "agents": ["Geralt", "Yennefer", "Ciri", "Triss", "Lambert", "Vesemir", "Eskel"]
+    }
+  ]
+}
